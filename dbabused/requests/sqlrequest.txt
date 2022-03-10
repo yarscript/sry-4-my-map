@@ -1,0 +1,39 @@
+POST /main.php?1&serverId=* HTTP/1.1
+Host: 217.182.158.115
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+Content-Type: application/json
+Accept: application/json
+Cache-Control: no-cache
+Connection: keep-alive
+Cookie: language=ru-ru; serverId=*; PHPSESSID=nbane18la7lurancggf3pjgdr7
+Origin: https://cp.wowcircle.net
+Pragma: no-cache
+Referer: https://cp.wowcircle.net/guilds
+
+[
+  {
+    "tid": 12,
+    "data": [
+      {
+        "page": 1,
+        "start": 0,
+        "limit": 25,
+        "sort": [
+          {
+            "property": "membersCount",
+            "direction": "DESC"
+          }
+        ],
+        "filter": [
+          {
+            "property": "name",
+            "value": "*"
+          }
+        ]
+      }
+    ],
+    "action": "wow_Services",
+    "type": "rpc",
+    "method": "cmdGuilds"
+  }
+]

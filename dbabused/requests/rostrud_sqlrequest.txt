@@ -1,0 +1,12 @@
+POST /admin/site/login HTTP/1.1
+Host: 91.107.66.166
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36
+Content-Type: application/x-www-form-urlencoded
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9;*;
+Cache-Control: no-cache
+Connection: keep-alive
+Cookie: yii2-declaration-session=b41181f012b3abf58b5b13ef0223a921; _backendCSRF=113deb0849f5b9e0c0f172adebfad03326e47aa8cb72e03a41ddcd4d45769304a%3A2%3A%7Bi%3A0%3Bs%3A12%3A%22_backendCSRF%22%3Bi%3A1%3Bs%3A32%3A%22VR44SCEFzRYFyIYQZdaip8NVbJ8MqZDm%22%3B%7D; *;
+Origin: https://declaration.rostrud.gov.ru
+Pragma: no-cache
+
+_backendCSRF=ykvgAO5y_Gqi5QL2I_2UyTJZN3IyQ0rDFsgaM4WsRIucGdQ0vTG5LNi3W7BatM2YaD1WG0J7BJV0giJ-9PYA5g==&LoginForm%5Busername%5D=test*&LoginForm%5Bpassword%5D=1*&LoginForm%5BrememberMe%5D=0*&LoginForm%5BrememberMe%5D=1*&login-button=*
