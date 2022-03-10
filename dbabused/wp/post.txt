@@ -5,4 +5,4 @@ Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/w
 Cache-Control: no-cache
 Connection: keep-alive
 
-log=*&pwd=*&wp-submit=Войти*&redirect_to=https://www.zaprava.ru/wp-admin/post-new.php&testcookie=1
+log=*&pwd=*&wp-submit=Войти&redirect_to=https://www.zaprava.ru/wp-admin/post-new.php&testcookie=1
