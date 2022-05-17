@@ -1,2 +1,2 @@
 # sry-4-my-map
-A piece of bashed pentestt
+A piece of bashed pentest
